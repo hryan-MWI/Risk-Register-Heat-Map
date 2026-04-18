@@ -1,0 +1,6 @@
+Feature,Previous,This version
+Risk levels,3 (Low/Medium/High),4 (Low/Medium/High/Extreme)
+Thresholds,1–4/5–12/15–25,1–5/6–11/12–19/20–25
+Risk display,Floating dots,ID badges inside cells
+Axis style,Likelihood on Y,Consequence on Y (matching your doc)
+CSV upload,Generic,Accepts your actual XLSX-exported CSV
